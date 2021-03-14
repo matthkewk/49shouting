@@ -1,5 +1,5 @@
 > Due to a third-party risk dispute, this script stopped sharing
-> 由于第三方风险争议，此脚本停止分享。
+> 由于第三方风险争议，此脚本停止分享。1
 > ***
 ### 自己的收集使用教程具体找作者'
 ### 1. 20210308 ，抄了个49任务的，不知道能不能用，[49源地址](https://github.com/lz0423/ceshi)
